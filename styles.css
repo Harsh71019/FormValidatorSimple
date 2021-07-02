@@ -67,7 +67,7 @@ h3 {
 }
 
 .form-control.error input {
-  border-color: var(--success-color);
+  border-color: var(--error-color);
 }
 
 .form-control small {
@@ -76,7 +76,6 @@ h3 {
   bottom: 0;
   left: 0;
   visibility: hidden;
-  display: none;
 }
 
 .form-control.error small {
